@@ -7,7 +7,6 @@
 <body>
   <table width="80%" align="center" border="1">
 <?php
-
 for ($i=1 ; $i <= 13 ;$i++){
 
   echo "<tr>";
